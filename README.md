@@ -33,12 +33,12 @@
 
 https://github.com/user-attachments/assets/0b5e954c-195b-4ace-b7ca-dc25c8304fcb
 
-- Verification with 3D robot simulation model (tool: RoboAnalyzer)
-
-https://github.com/user-attachments/assets/5de4553c-6842-49fd-bbc3-fc5a888a26d6
-
 - Realized of degree variation
 
 <img width="1589" height="452" alt="analyze" src="https://github.com/user-attachments/assets/09049880-7f2e-4e6e-b994-42181816aef1" />
+
+- Verification with 3D robot simulation model (tool: RoboAnalyzer)
+
+https://github.com/user-attachments/assets/5de4553c-6842-49fd-bbc3-fc5a888a26d6
 
 - For detailed information, please refer to this [paper](https://www.mdpi.com/2075-4418/12/12/3179)
