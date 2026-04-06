@@ -26,3 +26,4 @@
 ### 3. Design of Hardware
 - Structure
 <img width="1015" height="642" alt="structure" src="https://github.com/user-attachments/assets/f8f76b8a-c449-466d-907f-1ef549015faa" />
+- Circuit diagram : [hardware/CIRCUIT.pdf]
