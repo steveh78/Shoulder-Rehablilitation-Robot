@@ -48,3 +48,9 @@ https://github.com/user-attachments/assets/5de4553c-6842-49fd-bbc3-fc5a888a26d6
 ### 5. Control program development
 
 - Development environment and external libraries
+
+|Classification|Name|Description|
+| --- | --- | --- |
+| Development environment | Visual studio 2017 | Some libraries no longer compiles in Visual Studio 2019 and greater |
+| External library | EPOS Command Library | Control the motors and feedback the angle through the encoders |
+| External library | ATIDAQ C Library | 6-axis force/torque sensor hardware interface control |
