@@ -42,3 +42,9 @@ https://github.com/user-attachments/assets/0b5e954c-195b-4ace-b7ca-dc25c8304fcb
 https://github.com/user-attachments/assets/5de4553c-6842-49fd-bbc3-fc5a888a26d6
 
 - For detailed information, please refer to this [paper](https://www.mdpi.com/2075-4418/12/12/3179)
+
+<br>
+
+### 5. Control program development
+
+- Development environment and external libraries
