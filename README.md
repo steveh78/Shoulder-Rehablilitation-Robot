@@ -52,5 +52,5 @@ https://github.com/user-attachments/assets/5de4553c-6842-49fd-bbc3-fc5a888a26d6
 |Classification|Name|Description|
 | --- | --- | --- |
 | Development environment | Visual studio 2017 | Some libraries no longer compiles in Visual Studio 2019 and greater |
-| External library | EPOS Command Library | Control the motors and feedback the angle through the encoders |
-| External library | ATIDAQ C Library | 6-axis force/torque sensor hardware interface control |
+| External library | [EPOS Command Library](https://www.maxongroup.co.kr/medias/sys_master/root/9157360353310/EPOS-Command-Library-En.pdf) | Control the motors and feedback the angle through the encoders |
+| External library | [ATIDAQ C Library](https://www.ati-ia.com/Products/ft/software/daq_software.aspx?_gl=1*uvguox*_up*MQ..*_ga*MzY2MjM3NjA4LjE3NzU1NTE2NjY.*_ga_DL8SSYX6V8*czE3NzU1NTE2NjUkbzEkZzEkdDE3NzU1NTE2NzMkajUyJGwwJGgw) | 6-axis force/torque sensor hardware interface control |
