@@ -66,4 +66,12 @@ https://github.com/user-attachments/assets/5de4553c-6842-49fd-bbc3-fc5a888a26d6
 | EPOS| Control the motors and feedback the angle through the encoders. |
 | txt | Movement path data for each motor sampled through motion analysis |
 
+- Modes
 
+|Mode|Description|
+| --- | --- |
+| Passive | The robot repeats a certain motion. Detects reaction force, and if it exceeds the threshold, sets it to the limit operating range. |
+| Active-assist | The robot measures the user's force and, if it is greater than the set condition, moves 1 step in that direction. |
+| Stretching |  |
+
+- Each mode allows for six movements: Abduction, Adduction, External Rotation, Internal Rotation, Flexion, and Extension.
