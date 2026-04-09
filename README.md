@@ -90,10 +90,17 @@ https://github.com/user-attachments/assets/4a339128-cba2-47b7-8d6d-edd5629337e3
 
 ### 2. Control program demonstration
 
-- Abduction
+- Active-assist mode operations
 
 https://github.com/user-attachments/assets/c5701706-69ea-4ae0-ba62-322772e6de68
 
-- Adduction
-
 https://github.com/user-attachments/assets/029d14f3-0744-4f88-82ff-d0f874095ed7
+
+https://github.com/user-attachments/assets/ce9f25c0-82c9-42c8-b261-5a754ff0085c
+
+https://github.com/user-attachments/assets/6b7f2c9f-b369-4c0e-94a8-0997fdb7e991
+
+https://github.com/user-attachments/assets/5304230d-1766-4637-ac6f-1c5684f8fe9a
+
+https://github.com/user-attachments/assets/94184330-520b-4adb-8316-20705ae0ec64
+
