@@ -81,3 +81,11 @@ https://github.com/user-attachments/assets/4a339128-cba2-47b7-8d6d-edd5629337e3
 
 
 - Each mode allows for six movements: Abduction, Adduction, External Rotation, Internal Rotation, Flexion, and Extension.
+
+
+## Result
+### 1. Mechanical and electrical parts
+
+<img width="820" height="501" alt="mechanical2" src="https://github.com/user-attachments/assets/d2119221-43fd-4e22-a379-c5b6a9222b66" />
+
+### 2. Control program demonstration
