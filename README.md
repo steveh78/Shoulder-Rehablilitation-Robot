@@ -89,3 +89,11 @@ https://github.com/user-attachments/assets/4a339128-cba2-47b7-8d6d-edd5629337e3
 <img width="820" height="501" alt="mechanical2" src="https://github.com/user-attachments/assets/d2119221-43fd-4e22-a379-c5b6a9222b66" />
 
 ### 2. Control program demonstration
+
+- Abduction
+
+https://github.com/user-attachments/assets/c5701706-69ea-4ae0-ba62-322772e6de68
+
+- Adduction
+
+https://github.com/user-attachments/assets/029d14f3-0744-4f88-82ff-d0f874095ed7
