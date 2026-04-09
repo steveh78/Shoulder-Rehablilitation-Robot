@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/5de4553c-6842-49fd-bbc3-fc5a888a26d6
 | --- | --- |
 | Passive | The robot repeats the specified motion. It detects simultaneous reaction forces and sets the operating range limit if the threshold is exceeded. |
 | Active-assist | The robot measures the user's force and, if it is greater than the set condition, moves 1 step in that direction. |
-| Stretching | Proceed in passive mode up to the operating limit. Then, measure the reaction force, if it is lower than the threshold, proceed 1 step more and repeat. |
+| Stretching | Proceed in passive mode up to the operating limit. Then, measure the reaction force, if it is lower than the threshold, proceed 1 step more and repeat. If the reaction force is higher than the threshold, it returns to the origin. |
 
 - Stretching mode
 
